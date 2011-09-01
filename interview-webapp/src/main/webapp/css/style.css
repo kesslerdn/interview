@@ -1,0 +1,4 @@
+span[id*=errors]{
+	color:red;
+	font-weight:bold;	
+}
